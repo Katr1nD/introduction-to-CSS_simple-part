@@ -1,0 +1,32 @@
+.wrapper {
+    width: 50rem;
+    text-align: center;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #A52A2A;
+    color: #ffffff;
+}
+
+section>img {
+    width: 50rem;
+}
+
+p {
+    font-size: 19px;
+    text-align: left;
+}
+
+.blue-marker {
+    color: blue;
+}
+
+.garage {
+    border: 4px dashed #000000;
+}
+
+footer {
+    background-color: #000000;
+    color: #ffffff;
+}
